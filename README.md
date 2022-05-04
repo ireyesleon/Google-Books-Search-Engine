@@ -15,6 +15,11 @@
   Download this repo and run npm i to install all the packages, then run npm run develop to start the app.
   ## Usage
   Run npm run develop to start the app and search for the books that you want.
+  
+  Main page:
+  <img width="606" alt="image" src="https://user-images.githubusercontent.com/89933923/166834886-6d84c8ba-7bcf-425e-8b72-dd566e060334.png">
+
+  
   ## License
     Project Licensed under ISC
   ## Contribution
