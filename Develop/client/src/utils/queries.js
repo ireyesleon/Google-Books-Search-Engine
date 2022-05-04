@@ -5,6 +5,7 @@ query me {
     me {
         _id
         username
+        email
         savedBooks {
             _id
             authors
