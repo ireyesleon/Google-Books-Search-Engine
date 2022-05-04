@@ -17,7 +17,7 @@
   Run npm run develop to start the app and search for the books that you want.
   
   Main page:
-  <img width="606" alt="image" src="https://user-images.githubusercontent.com/89933923/166834886-6d84c8ba-7bcf-425e-8b72-dd566e060334.png">
+  <img width="1397" alt="image" src="https://user-images.githubusercontent.com/89933923/166835155-5b46584e-9375-41e7-8ee7-3de2d3a8d9e6.png">
 
   
   ## License
